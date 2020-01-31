@@ -1,0 +1,126 @@
+Script started on Tuesday 20 December 2011 07:34:37 AM IST
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ mkdir kk
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ ls
+abc.txt  abc.txt~  [0m[01;34mkk[0m  qwe.txt  qwe.txt~  work.txt
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ ls
+abc.txt  abc.txt~  [0m[01;34mkk[0m  qwe.txt  qwe.txt~  work.txt
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ ls -l
+total 20
+-rw-rw-r-- 1 s4c1 s4c1   13 Dec 20 07:32 abc.txt
+-rw-rw-r-- 1 s4c1 s4c1  341 Dec 20 07:23 abc.txt~
+drwxrwxr-x 2 s4c1 s4c1 4096 Dec 20 07:34 [0m[01;34mkk[0m
+-rw-rw-r-- 1 s4c1 s4c1   13 Dec 20 07:31 qwe.txt
+-rw-rw-r-- 1 s4c1 s4c1   12 Dec 20 07:31 qwe.txt~
+-rw-rw-r-- 1 s4c1 s4c1    0 Dec 20 07:34 work.txt
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ rmdir kk
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ ls
+abc.txt  abc.txt~  qwe.txt  qwe.txt~  work.txt
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ cd..
+cd..: command not found
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ cd..[K[K--
+cd--: command not found
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ cd-- --[C[K[1P-[1P-[1P-[C[Krm[K[Kcat abc.txt
+1 
+2
+3
+4
+5
+6
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ cat abc.txt[1P.txt[1P.txt[1P.txtq.txtw.txte.txt
+1 
+2
+3
+4
+5
+6
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ touch aaa.txt
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ ls
+aaa.txt  abc.txt  abc.txt~  qwe.txt  qwe.txt~  work.txt
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ cp[K[Kcar [Kt[K[Kt aaa.txt
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ cp abc.txt aaa.txt
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ cp abc.txt aaa.txt[7Pa[C[C[C[C[C[C[C[C[C
+1 
+2
+3
+4
+5
+6
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ nam[Kno qwe.x[Ktxt
+[?1049h[1;41r(B[m[4l[?7h[?12l[?25h[?1h=[?1h=[?1h=[39;49m[39;49m(B[m[H[2J(B[0;7m  GNU nano 2.2.6                                    File: qwe.txt                                                                               [3;1H(B[m1[4d2[5d3[6d4[7d5[8d6[39;65H(B[0;7m[ Read 6 lines ][40d^G(B[m Get Help[40;25H(B[0;7m^O(B[m WriteOut[40;49H(B[0;7m^R(B[m Read File[40;73H(B[0;7m^Y(B[m Prev Page[40;97H(B[0;7m^K(B[m Cut Text[40;121H(B[0;7m^C(B[m Cur Pos[41d(B[0;7m^X(B[m Exit[41;25H(B[0;7m^J(B[m Justify[41;49H(B[0;7m^W(B[m Where Is[41;73H(B[0;7m^V(B[m Next Page[41;97H(B[0;7m^U(B[m UnCut Text[41;121H(B[0;7m^T(B[m To Spell[3d[4d[5d[6d[7d[8d[1;135H(B[0;7mModified[7;2H(B[m6[8d[K[A5[A[7d56[K[A46[7d[K[A46 [K[A3[K[A2[K[A1 [Ka[4db[5dc[39d[K[5dc[6d[39d(B[0;7mFile Name to Write: qwe.txt                                                                                                                     [40;25H(B[m            (B[0;7mM-D(B[m DOS Format          [40;73H(B[0;7mM-A(B[m Append  [40;97H            (B[0;7mM-B(B[m Backup File[K[41;2H(B[0;7mC(B[m Cancel[41;25H            (B[0;7mM-M(B[m Mac Format         [41;73H(B[0;7mM-P(B[m Prepend[K[39;28H[1;135H[39;49m(B[0;7m        [39;63H(B[m[1K (B[0;7m[ Wrote 4 lines ](B[m[K[40;25H(B[0;7m^O(B[m WriteOut             (B[0;7m^R(B[m Read File[40;73H(B[0;7m^Y(B[m Prev Page[40;97H(B[0;7m^K(B[m Cut Text             (B[0;7m^C(B[m Cur Pos[41;2H(B[0;7mX(B[m Exit  [41;25H(B[0;7m^J(B[m Justify[14X[41;49H(B[0;7m^W(B[m Where Is[41;73H(B[0;7m^V(B[m Next Page[41;97H(B[0;7m^U(B[m UnCut Text[41;121H(B[0;7m^T(B[m To Spell[6d[40d[J[41;144H[41;1H[?1049l[?1l>]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ cat [K[K[K[Kcat aaa.txt qwe.txt
+1 
+2
+3
+4
+5
+6
+a
+b
+c
+
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ join aaa.txt qwe.txt [K
+join: qwe.txt:4: is not sorted: 
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ cat qwe.txt
+a
+b
+c
+
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ sort -rn aaa.txt
+6
+5
+4
+3
+2
+1 
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ exit
+exit
+
+Script done on Tuesday 20 December 2011 07:40:52 AM IST
+Script started on Tuesday 20 December 2011 07:47:53 AM IST
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ sort -n aaa.txt
+1 
+2
+3
+4
+5
+6
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ exit
+Script done on Tuesday 20 December 2011 07:48:18 AM IST
+Script started on Tuesday 20 December 2011 07:48:43 AM IST
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ paste aaa.txt qwe.txt >qqq.txt
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ cat qqq.txt
+1 	a
+2	b
+3	c
+4	
+5	
+6	
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ so[K[Kcut -f2 qqq.txtx[K
+a
+b
+c
+
+
+
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ cat qqq.txt
+1 	a
+2	b
+3	c
+4	
+5	
+6	
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ exit
+exit
+
+Script done on Tuesday 20 December 2011 07:51:48 AM IST
+Script started on Tuesday 20 December 2011 07:53:19 AM IST
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ sort rn[K[K-rnk1 qqq.txt
+6	
+5	
+4	
+3	c
+2	b
+1 	a
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ exit
+exit
+
+Script done on Tuesday 20 December 2011 07:54:27 AM IST

@@ -1,0 +1,97 @@
+CEC CS C30 24/01/2020
+JIBIN JOSEPH
+
+-------------------------------
+#1: create directory
+
+---------------------------------
+ mkdir kk
+
+---------------------------------
+
+#2 subfiles in a directory
+---------------
+ls
+
+----------------------
+output
+
+  abc.txt  qwe.txt  work.txt  
+
+-----------------------------
+#3 subfiles in a directory
+
+--------------------------
+ls -l
+
+----------------------
+output
+
+total 3
+-rw-rw-r-- 1 s4c1 s4c1   13 Dec 20 07:32 abc.txt
+-rw-rw-r-- 1 s4c1 s4c1   13 Dec 20 07:31 qwe.txt
+-rw-rw-r-- 1 s4c1 s4c1    0 Dec 20 07:34 work.txt
+
+--------------------------------------------
+#4 display the contents
+----------------------------
+cat abc.txt
+
+------------------------
+output
+
+1 
+2
+3
+4
+5
+6
+
+----------------------------
+#5 removing the directory
+
+---------------------------
+rmdir kk
+
+-------------------
+#6 sorting the file contents
+
+-----------------------------
+ 
+sort -rn abc.txt
+
+-------------------------
+output
+
+6
+5
+4
+3
+2
+1
+
+--------------------------
+#7 pasting the contents
+
+--------------------------
+paste aaa.txt qwe.txt >qqq.txt
+cat qqq.txt
+
+-------------------------
+output
+
+1 	a
+2	b
+3	c
+4	
+5	
+6	
+
+-----------------------------
+#8 joining two file contents
+
+--------------------------------
+join abc.txt qwe.txt >kk.txt
+
+---------------------
+
