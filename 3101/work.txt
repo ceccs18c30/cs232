@@ -1,0 +1,200 @@
+Script started on Friday 31 January 2020 11:25:54 AM IST
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ ssh cs13[K8c30@192.168.0.30
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs18c30@192.168.0.30's password: 
+Welcome to elementary OS 0.4.1 Loki (GNU/Linux 4.13.0-32-generic x86_64)
+
+ * Website:  http://elementary.io/
+
+402 packages can be updated.
+0 updates are security updates.
+
+$ exit
+Connection to 192.168.0.30 closed.
+
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ ssh cs18c30@192.168.0.30[1@ftp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Krsync cs18c30@192.168.0.30
+rsync: link_stat "/home/s4c1/ceccs18c30/cs232/cs18c30@192.168.0.30" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1070) [sender=3.0.9]
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ rsync cs18c30@192.168.0.30[C cs18c30@192.168.0.30- cs18c30@192.168.0.30a cs18c30@192.168.0.30
+rsync: link_stat "/home/s4c1/ceccs18c30/cs232/cs18c30@192.168.0.30" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1070) [sender=3.0.9]
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ scp cs18c30@192.168.0.30
+usage: scp [-12346BCpqrv] [-c cipher] [-F ssh_config] [-i identity_file]
+           [-l limit] [-o ssh_option] [-P port] [-S program]
+           [[user@]host1:]file1 ... [[user@]host2:]file2
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ scp cs18c30@192.168.0.30rcs18c30@192.168.0.30ecs18c30@192.168.0.30pcs18c30@192.168.0.30ocs18c30@192.168.0.30rcs18c30@192.168.0.30tcs18c30@192.168.0.30.cs18c30@192.168.0.30tcs18c30@192.168.0.30xcs18c30@192.168.0.30tcs18c30@192.168.0.30 cs18c30@192.168.0.30 [A
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+ re.txt
+re.txt: No such file or directory
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ scp report.txt cs18c30@192.168.0.30 
+ re.txt>re.txt
+[C[C
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ exit
+Script started on Friday 31 January 2020 11:50:12 AM IST
+]0;s4c1@lab2-Veriton-Series: ~s4c1@lab2-Veriton-Series:~$ ifconfig
+eth0      Link encap:Ethernet  HWaddr 10:78:d2:3e:28:0e  
+          inet addr:192.168.0.99  Bcast:192.168.1.255  Mask:255.255.254.0
+          inet6 addr: fe80::1278:d2ff:fe3e:280e/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:524424 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:144588 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:442387973 (442.3 MB)  TX bytes:11910147 (11.9 MB)
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:80 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:80 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:5272 (5.2 KB)  TX bytes:5272 (5.2 KB)
+
+]0;s4c1@lab2-Veriton-Series: ~s4c1@lab2-Veriton-Series:~$ ifconfig -a
+eth0      Link encap:Ethernet  HWaddr 10:78:d2:3e:28:0e  
+          inet addr:192.168.0.99  Bcast:192.168.1.255  Mask:255.255.254.0
+          inet6 addr: fe80::1278:d2ff:fe3e:280e/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:524520 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:144592 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:442395548 (442.3 MB)  TX bytes:11910411 (11.9 MB)
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:80 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:80 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:5272 (5.2 KB)  TX bytes:5272 (5.2 KB)
+
+]0;s4c1@lab2-Veriton-Series: ~s4c1@lab2-Veriton-Series:~$ route
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+192.168.0.0     *               255.255.254.0   U     1      0        0 eth0
+]0;s4c1@lab2-Veriton-Series: ~s4c1@lab2-Veriton-Series:~$ route -n
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+192.168.0.0     0.0.0.0         255.255.254.0   U     1      0        0 eth0
+]0;s4c1@lab2-Veriton-Series: ~s4c1@lab2-Veriton-Series:~$ ping
+Usage: ping [-LRUbdfnqrvVaAD] [-c count] [-i interval] [-w deadline]
+            [-p pattern] [-s packetsize] [-t ttl] [-I interface]
+            [-M pmtudisc-hint] [-m mark] [-S sndbuf]
+            [-T tstamp-options] [-Q tos] [hop1 ...] destination
+]0;s4c1@lab2-Veriton-Series: ~s4c1@lab2-Veriton-Series:~$ ping 192.168.0.1
+PING 192.168.0.1 (192.168.0.1) 56(84) bytes of data.
+64 bytes from 192.168.0.1: icmp_req=1 ttl=64 time=9.78 ms
+64 bytes from 192.168.0.1: icmp_req=2 ttl=64 time=2.48 ms
+64 bytes from 192.168.0.1: icmp_req=3 ttl=64 time=2.89 ms
+64 bytes from 192.168.0.1: icmp_req=4 ttl=64 time=2.53 ms
+64 bytes from 192.168.0.1: icmp_req=5 ttl=64 time=2.52 ms
+64 bytes from 192.168.0.1: icmp_req=6 ttl=64 time=2.77 ms
+64 bytes from 192.168.0.1: icmp_req=7 ttl=64 time=2.54 ms
+64 bytes from 192.168.0.1: icmp_req=8 ttl=64 time=2.46 ms
+64 bytes from 192.168.0.1: icmp_req=9 ttl=64 time=2.47 ms
+64 bytes from 192.168.0.1: icmp_req=10 ttl=64 time=2.48 ms
+64 bytes from 192.168.0.1: icmp_req=11 ttl=64 time=2.60 ms
+64 bytes from 192.168.0.1: icmp_req=12 ttl=64 time=4.02 ms
+64 bytes from 192.168.0.1: icmp_req=13 ttl=64 time=2.78 ms
+64 bytes from 192.168.0.1: icmp_req=14 ttl=64 time=21.2 ms
+^C
+--- 192.168.0.1 ping statistics ---
+14 packets transmitted, 14 received, 0% packet loss, time 13021ms
+rtt min/avg/max/mdev = 2.464/4.545/21.252/4.992 ms
+]0;s4c1@lab2-Veriton-Series: ~s4c1@lab2-Veriton-Series:~$ ping 192.168.0.1[K2
+PING 192.168.0.2 (192.168.0.2) 56(84) bytes of data.
+64 bytes from 192.168.0.2: icmp_req=1 ttl=64 time=0.196 ms
+64 bytes from 192.168.0.2: icmp_req=2 ttl=64 time=0.142 ms
+64 bytes from 192.168.0.2: icmp_req=3 ttl=64 time=0.167 ms
+64 bytes from 192.168.0.2: icmp_req=4 ttl=64 time=0.173 ms
+64 bytes from 192.168.0.2: icmp_req=5 ttl=64 time=0.162 ms
+64 bytes from 192.168.0.2: icmp_req=6 ttl=64 time=0.126 ms
+64 bytes from 192.168.0.2: icmp_req=7 ttl=64 time=0.167 ms
+64 bytes from 192.168.0.2: icmp_req=8 ttl=64 time=0.154 ms
+64 bytes from 192.168.0.2: icmp_req=9 ttl=64 time=0.139 ms
+64 bytes from 192.168.0.2: icmp_req=10 ttl=64 time=0.167 ms
+64 bytes from 192.168.0.2: icmp_req=11 ttl=64 time=0.195 ms
+64 bytes from 192.168.0.2: icmp_req=12 ttl=64 time=0.176 ms
+64 bytes from 192.168.0.2: icmp_req=13 ttl=64 time=0.169 ms
+^C
+--- 192.168.0.2 ping statistics ---
+13 packets transmitted, 13 received, 0% packet loss, time 11997ms
+rtt min/avg/max/mdev = 0.126/0.164/0.196/0.020 ms
+]0;s4c1@lab2-Veriton-Series: ~s4c1@lab2-Veriton-Series:~$ x[Kexit
+exit
+
+Script done on Friday 31 January 2020 11:51:22 AM IST
+Script started on Friday 31 January 2020 12:00:18 PM IST
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ rsync -a /work,[K.txt cs18c30@192.168. 0.30:2401
+
+
+ssh: connect to host 192.168.0.30 port 22: Connection timed out
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(605) [sender=3.0.9]
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ 
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ 
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ rsync -a /work.txt cs18c30@192.168.00.30:2401[A]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ exit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cping 192.168.0.21[Kroute -n[Kifconfig -a[Ksftp cs18c30@192.168.0.30ls[Ksftp cs18c30@192.168.0.30
+ssh: connect to host 192.168.0.30 port 22: Connection timed out
+Couldn't read packet: Connection reset by peer
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ sftp cs18c30@192.168.0.30
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs18c30@192.168.0.30's password: 
+Connection closed by 192.168.0.30
+Couldn't read packet: Connection reset by peer
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ sftp cs18c30@192.168.0.30
+ssh: connect to host 192.168.0.30 port 22: Connection timed out
+Couldn't read packet: Connection reset by peer
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ sftp cs18c30@192.168.0.30
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs18c30@192.168.0.30's password: 
+Connection closed by 192.168.0.30
+Couldn't read packet: Connection reset by peer
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ sftp cs18c30@192.168.0.30
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs18c30@192.168.0.30's password: 
+Connected to 192.168.0.30.
+sftp> Connection to 192.168.0.30 closed by remote host.
+ls
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ sftp cs18c30@192.168.0.30rsync -a /work.txt cs18c30@192.168.00.30:2401[A]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/cs232s4c1@lab2-Veriton-Series:~/ceccs18c30/cs232$ [10Psftp cs18c30@192.168.0.30
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs18c30@192.168.0.30's password: 
+Connected to 192.168.0.30.
+sftp> ls
+2401                3001                examples.desktop    
+sftp> mkdir 2[K30012020
+sftp> cd 30012020[K[K[K[K[K[K[7Gmkdir 300120200[K[K[K[K()2)
+sftp> ls
+2401                3001                3001(2)             30012020            
+examples.desktop    
+sftp> cs [Kd 3001()2))
+sftp> put *.txt
+Uploading report.txt to /home/cs18c30/3001(2)/report.txt
+report.txt                                      0%    0     0.0KB/s   --:-- ETAreport.txt                                    100% 4341     4.2KB/s   00:00    
+Uploading work.txt to /home/cs18c30/3001(2)/work.txt
+work.txt                                        0%    0     0.0KB/s   --:-- ETAwork.txt           

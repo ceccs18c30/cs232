@@ -1,0 +1,119 @@
+CEC CS 18 C 30
+JIBIN JOSEPH
+
+--------------------------------------------------------------------------------------
+#1 NETWORKING TASKS (t3)
+
+-------------------------------------------------------------------------------
+
+Command/Shell script/Program name
+
+------------------------------------------------------------------------
+INPUT
+
+	ifconfig
+	ifcongig -a
+	route
+	route -n
+	ping 192.168.0.1
+
+
+---------------------------------------------------------------------------
+OUTPUT
+
+	*1 displays the active networks in the sustem
+	*2 displays all the active and inactive networks in the system
+	*3 gives the ip routing table
+	*4 gives the speed of the network
+
+	*1
+	eth0      Link encap:Ethernet  HWaddr 10:78:d2:3e:28:0e  
+          inet addr:192.168.0.99  Bcast:192.168.1.255  Mask:255.255.254.0
+          inet6 addr: fe80::1278:d2ff:fe3e:280e/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:524424 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:144588 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:442387973 (442.3 MB)  TX bytes:11910147 (11.9 MB)
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:80 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:80 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:5272 (5.2 KB)  TX bytes:5272 (5.2 KB)
+
+	*2
+	eth0      Link encap:Ethernet  HWaddr 10:78:d2:3e:28:0e  
+          inet addr:192.168.0.99  Bcast:192.168.1.255  Mask:255.255.254.0
+          inet6 addr: fe80::1278:d2ff:fe3e:280e/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:524424 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:144588 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:442387973 (442.3 MB)  TX bytes:11910147 (11.9 MB)
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:80 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:80 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:5272 (5.2 KB)  TX bytes:5272 (5.2 KB)
+
+
+	*3
+	  Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+192.168.0.0     *               255.255.254.0   U     1      0        0 eth0
+
+	*5
+	  PING 192.168.0.1 (192.168.0.1) 56(84) bytes of data.
+64 bytes from 192.168.0.1: icmp_req=1 ttl=64 time=9.78 ms
+64 bytes from 192.168.0.1: icmp_req=2 ttl=64 time=2.48 ms
+64 bytes from 192.168.0.1: icmp_req=3 ttl=64 time=2.89 ms
+64 bytes from 192.168.0.1: icmp_req=4 ttl=64 time=2.53 ms
+64 bytes from 192.168.0.1: icmp_req=5 ttl=64 time=2.52 ms
+64 bytes from 192.168.0.1: icmp_req=6 ttl=64 time=2.77 ms
+64 bytes from 192.168.0.1: icmp_req=7 ttl=64 time=2.54 ms
+64 bytes from 192.168.0.1: icmp_req=8 ttl=64 time=2.46 ms
+64 bytes from 192.168.0.1: icmp_req=9 ttl=64 time=2.47 ms
+64 bytes from 192.168.0.1: icmp_req=10 ttl=64 time=2.48 ms
+64 bytes from 192.168.0.1: icmp_req=11 ttl=64 time=2.60 ms
+64 bytes from 192.168.0.1: icmp_req=12 ttl=64 time=4.02 ms
+64 bytes from 192.168.0.1: icmp_req=13 ttl=64 time=2.78 ms
+64 bytes from 192.168.0.1: icmp_req=14 ttl=64 time=21.2 ms
+^C
+--- 192.168.0.1 ping statistics ---
+14 packets transmitted, 14 received, 0% packet loss, time 13021ms
+rtt min/avg/max/mdev = 2.464/4.545/21.252/4.992 ms
+
+-----------------------------------------------------------------------------------
+
+#2 NETWORKING TASKS (t4)
+
+--------------------------------------------------------------------------------------------
+INPUT
+
+	scp file.txt cs18c30@192.168.0.30
+	rsync -a/fn.txt/cs18c30@192.168.0.30:/f1.txt/
+	ssh user@192.168.0.30
+	
+-------------------------------------------------------------------------------------------
+
+OUTPUT
+
+	*copies from local system to the server
+	*uploads only the modified contents of the file.
+	*provides a secure shell to upload to the server
+
+-----------------------------------------------------------------------------------------
+
+
+
+
+
+
