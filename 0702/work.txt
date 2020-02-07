@@ -1,0 +1,123 @@
+Script started on Friday 07 February 2020 11:00:32 AM IST
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/0702s4c1@lab2-Veriton-Series:~/ceccs18c30/0702$ exit[2Plsgrep CHN18CS result_CHN.txt>result_cs
+s.txt[A
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/0702s4c1@lab2-Veriton-Series:~/ceccs18c30/0702$ ls[K
+
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpdftotext -layout result_CHN.pdf>resu
+ult_CHN.txt[A
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/0702s4c1@lab2-Veriton-Series:~/ceccs18c30/0702$ [22Ptouch work.txt
+
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpdftotext -layout result_CHN.pdf>resu
+ult_CHN.txt
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/0702s4c1@lab2-Veriton-Series:~/ceccs18c30/0702$ ls
+result_CHN.pdf  result_CHN.txt  work.txt
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/0702s4c1@lab2-Veriton-Series:~/ceccs18c30/0702$ lspdftotext -layout result_CHN.pdf>resu
+ult_CHN.txt[A
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/0702s4c1@lab2-Veriton-Series:~/ceccs18c30/0702$ exit[K
+
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2Plsgrep CHN18CS result_CHN.txt>result_cs
+s.txt
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/0702s4c1@lab2-Veriton-Series:~/ceccs18c30/0702$ ls
+result_CHN.pdf  result_CHN.txt  result_cs.txt  work.txt
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/0702s4c1@lab2-Veriton-Series:~/ceccs18c30/0702$ exit
+exit
+
+Script done on Friday 07 February 2020 11:00:57 AM IST
+Script started on Friday 07 February 2020 11:26:03 AM IST
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/0702s4c1@lab2-Veriton-Series:~/ceccs18c30/0702$ exit[1Ppwdmkdir rr.txt[2Pcat re.txtls[Kexit[1Ppwdcd ..[3Plscd ..script work.txtls[Kcd ceccs18c30/0702ls[Kexit[2Plsgrep CHN18CS result_CHN.txt>result_cs.txtls[Kpdftotext -layout result_CHN.pdf>result_CHN.txt
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[K[2Plsgrep CHN18CS result_CHN.txt>result_cs.txtls[Kpdftotext -layout result_CHN.pdf>result_CHN.txt
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctouch work.txt[Kls[Ktouch work.txtls[Krm result.txt~ls[Kcd ceccs18c30/0702[3Pscript work.txtexit[Krm -R-helpr[KhelpR[K[1Pexitscript work.txtcd ceccs18c30/0702ls[Krm result.txt~ls[Ktouch work.txtls[Ktouch work.txtpdftotext -layout result_CHN.pdf>result_CHN.txt
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kgrep CHN18CS result_CHN.txt>result_cs.txtls[Kexitpdftotext -layout result_CHN.pdf>result_CHN.txt
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kgrep CHN18CS result_CHN.txt>result_cs.txtls[Kexit[2Plscd ceccs18c30/0702ls[Kscript work.txt[10Pcd ..[3Plscd ..[2Ppwdexit[2Plscat re.txtmkdir rr.txtpwd[Kexit[Kexit[1Ppwdexit[K[K[K[Ksed -i 's/(O)/ 10/g' result.txt
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/0702s4c1@lab2-Veriton-Series:~/ceccs18c30/0702$ sed -i 's/(A+)/ 9/g' result.txt
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/0702s4c1@lab2-Veriton-Series:~/ceccs18c30/0702$ sed -i 's/(A)/ 8.5/g' result.txt
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/0702s4c1@lab2-Veriton-Series:~/ceccs18c30/0702$ sed -i 's/(B+)/ 8/g' result.txt
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/0702s4c1@lab2-Veriton-Series:~/ceccs18c30/0702$ sed -i 's/(B)/ 7/g' result.txt
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/0702s4c1@lab2-Veriton-Series:~/ceccs18c30/0702$ sed -i 's/(C)/ 6/g' result.txt
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/0702s4c1@lab2-Veriton-Series:~/ceccs18c30/0702$ sed -i 's/(P)/ 5/g' result.txt
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/0702s4c1@lab2-Veriton-Series:~/ceccs18c30/0702$ sed -i 's/(F)/ 0/g' result.txt
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/0702s4c1@lab2-Veriton-Series:~/ceccs18c30/0702$ sed -i 's/(FE)/ 0/g' result.txt
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/0702s4c1@lab2-Veriton-Series:~/ceccs18c30/0702$ sed -i 's/(I)/ 0/g' result.txt
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/0702s4c1@lab2-Veriton-Series:~/ceccs18c30/0702$ sed -i 's/(Absent)/ 0/g' result.txt
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/0702s4c1@lab2-Veriton-Series:~/ceccs18c30/0702$ exit
+exit
+
+Script done on Friday 07 February 2020 11:28:59 AM IST
+Script started on Friday 07 February 2020 11:34:13 AM IST
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/0702s4c1@lab2-Veriton-Series:~/ceccs18c30/0702$ exitclearscript -a work.txt[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kexit
+exit
+
+Script done on Friday 07 February 2020 11:37:08 AM IST
+Script started on Friday 07 February 2020 11:37:51 AM IST
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/0702s4c1@lab2-Veriton-Series:~/ceccs18c30/0702$ awk  '{  
+> print $1,$3,$5,$7,$9,$11,$13,$15,$17,$19
+>  }' result.txt > result1.txt 
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/0702s4c1@lab2-Veriton-Series:~/ceccs18c30/0702$ touch cgpa.txt
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/0702s4c1@lab2-Veriton-Series:~/ceccs18c30/0702$ awk '{
+> sum = 0
+> flag = 0
+> fails = 0
+> for(var =2; var<=NF; var++)
+> {
+> 
+cgpa.txt            result_cs.txt       work.txt
+result1.txt         result.txt          work.txt~
+result_CHN.pdf      Untitled Document   
+result_CHN.txt      Untitled Document~  
+> if($var == 0) 
+> 
+cgpa.txt            result_cs.txt       work.txt
+result1.txt         result.txt          work.txt~
+result_CHN.pdf      Untitled Document   
+result_CHN.txt      Untitled Document~  
+> {
+> 
+cgpa.txt            result_cs.txt       work.txt
+result1.txt         result.txt          work.txt~
+result_CHN.pdf      Untitled Document   
+result_CHN.txt      Untitled Document~  
+> 
+cgpa.txt            result_cs.txt       work.txt
+result1.txt         result.txt          work.txt~
+result_CHN.pdf      Untitled Document   
+result_CHN.txt      Untitled Document~  
+> flag = 1
+> 
+cgpa.txt            result_cs.txt       work.txt
+result1.txt         result.txt          work.txt~
+result_CHN.pdf      Untitled Document   
+result_CHN.txt      Untitled Document~  
+> 
+cgpa.txt            result_cs.txt       work.txt
+result1.txt         result.txt          work.txt~
+result_CHN.pdf      Untitled Document   
+result_CHN.txt      Untitled Document~  
+> fails = fails + 1
+> 
+cgpa.txt            result_cs.txt       work.txt
+result1.txt         result.txt          work.txt~
+result_CHN.pdf      Untitled Document   
+result_CHN.txt      Untitled Document~  
+> }
+> 
+cgpa.txt            result_cs.txt       work.txt
+result1.txt         result.txt          work.txt~
+result_CHN.pdf      Untitled Document   
+result_CHN.txt      Untitled Document~  
+> sum += $var
+> }
+> cgpa = sum/9
+> if (flag == 0) {
+>  printf("%s %0.3f\n",$1,cgpa)
+> }
+> if (flag == 1) {
+> 
+cgpa.txt            result_cs.txt       work.txt
+result1.txt         result.txt          work.txt~
+result_CHN.pdf      Untitled Document   
+result_CHN.txt      Untitled Document~  
+> printf("%s failed in %d\n",$1,fails)
+> }
+> }' result1.txt > cgpa.txt
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/0702s4c1@lab2-Veriton-Series:~/ceccs18c30/0702$ exit
+Script done on Friday 07 February 2020 11:41:45 AM IST
