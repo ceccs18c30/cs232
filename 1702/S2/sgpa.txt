@@ -1,0 +1,494 @@
+ sgpa: 0.00
+
+ sgpa: 0.00
+
+CHN18CS001 sgpa: 8.28
+
+ sgpa: 0.00
+
+CHN18CS002 failed subjects : 6
+
+ sgpa: 0.00
+
+CHN18CS003 sgpa: 9.11
+
+ sgpa: 0.00
+
+CHN18CS004 sgpa: 9.06
+
+ sgpa: 0.00
+
+CHN18CS005 sgpa: 7.94
+
+ sgpa: 0.00
+
+CHN18CS006 failed subjects : 2
+
+ sgpa: 0.00
+
+CHN18CS007 sgpa: 8.56
+
+ sgpa: 0.00
+
+CHN18CS008 sgpa: 8.44
+
+ sgpa: 0.00
+
+CHN18CS009 sgpa: 9.50
+
+ sgpa: 0.00
+
+CHN18CS010 sgpa: 9.56
+
+ sgpa: 0.00
+
+CHN18CS011 failed subjects : 1
+
+ sgpa: 0.00
+
+CHN18CS012 sgpa: 7.94
+
+ sgpa: 0.00
+
+CHN18CS013 failed subjects : 2
+
+ sgpa: 0.00
+
+CHN18CS014 failed subjects : 2
+
+ sgpa: 0.00
+
+CHN18CS015 failed subjects : 1
+
+ sgpa: 0.00
+
+CHN18CS016 sgpa: 8.78
+
+ sgpa: 0.00
+
+CHN18CS017 sgpa: 8.89
+
+ sgpa: 0.00
+
+CHN18CS018 sgpa: 9.67
+
+ sgpa: 0.00
+
+CHN18CS019 failed subjects : 1
+
+ sgpa: 0.00
+
+CHN18CS020 sgpa: 9.33
+
+ sgpa: 0.00
+
+CHN18CS021 sgpa: 9.00
+
+ sgpa: 0.00
+
+CHN18CS022 failed subjects : 1
+
+ sgpa: 0.00
+
+CHN18CS023 sgpa: 8.56
+
+ sgpa: 0.00
+
+CHN18CS024 failed subjects : 4
+
+ sgpa: 0.00
+
+CHN18CS025 sgpa: 8.06
+
+ sgpa: 0.00
+
+CHN18CS026 sgpa: 9.06
+
+ sgpa: 0.00
+
+CHN18CS027 failed subjects : 3
+
+ sgpa: 0.00
+
+CHN18CS028 failed subjects : 2
+
+ sgpa: 0.00
+
+CHN18CS029 sgpa: 9.33
+
+ sgpa: 0.00
+
+CHN18CS030 failed subjects : 1
+
+ sgpa: 0.00
+
+CHN18CS031 failed subjects : 2
+
+ sgpa: 0.00
+
+CHN18CS032 sgpa: 7.72
+
+ sgpa: 0.00
+
+CHN18CS033 sgpa: 9.22
+
+ sgpa: 0.00
+
+CHN18CS034 failed subjects : 1
+
+ sgpa: 0.00
+
+CHN18CS035 sgpa: 9.22
+
+ sgpa: 0.00
+
+CHN18CS036 sgpa: 8.89
+
+ sgpa: 0.00
+
+CHN18CS037 sgpa: 8.22
+
+ sgpa: 0.00
+
+CHN18CS038 sgpa: 8.72
+
+ sgpa: 0.00
+
+CHN18CS039 sgpa: 8.50
+
+ sgpa: 0.00
+
+CHN18CS040 failed subjects : 1
+
+ sgpa: 0.00
+
+CHN18CS041 failed subjects : 2
+
+ sgpa: 0.00
+
+CHN18CS042 sgpa: 8.11
+
+ sgpa: 0.00
+
+CHN18CS043 sgpa: 8.61
+
+ sgpa: 0.00
+
+CHN18CS044 failed subjects : 4
+
+ sgpa: 0.00
+
+CHN18CS045 sgpa: 8.00
+
+ sgpa: 0.00
+
+CHN18CS046 sgpa: 7.89
+
+ sgpa: 0.00
+
+CHN18CS047 failed subjects : 1
+
+ sgpa: 0.00
+
+CHN18CS048 failed subjects : 4
+
+ sgpa: 0.00
+
+CHN18CS049 sgpa: 8.78
+
+ sgpa: 0.00
+
+CHN18CS050 failed subjects : 5
+
+ sgpa: 0.00
+
+CHN18CS051 failed subjects : 2
+
+ sgpa: 0.00
+
+CHN18CS052 failed subjects : 4
+
+ sgpa: 0.00
+
+CHN18CS053 failed subjects : 1
+
+ sgpa: 0.00
+
+CHN18CS054 sgpa: 9.22
+
+ sgpa: 0.00
+
+CHN18CS055 sgpa: 8.17
+
+ sgpa: 0.00
+
+CHN18CS056 sgpa: 8.11
+
+ sgpa: 0.00
+
+CHN18CS057 sgpa: 8.17
+
+ sgpa: 0.00
+
+CHN18CS058 sgpa: 9.11
+
+ sgpa: 0.00
+
+CHN18CS059 sgpa: 9.22
+
+ sgpa: 0.00
+
+CHN18CS060 failed subjects : 3
+
+ sgpa: 0.00
+
+CHN18CS061 failed subjects : 5
+
+ sgpa: 0.00
+
+CHN18CS062 sgpa: 9.83
+
+ sgpa: 0.00
+
+CHN18CS063 sgpa: 8.28
+
+ sgpa: 0.00
+
+CHN18CS064 failed subjects : 1
+
+ sgpa: 0.00
+
+CHN18CS065 failed subjects : 1
+
+ sgpa: 0.00
+
+CHN18CS066 failed subjects : 2
+
+ sgpa: 0.00
+
+CHN18CS067 failed subjects : 1
+
+ sgpa: 0.00
+
+CHN18CS068 sgpa: 8.11
+
+ sgpa: 0.00
+
+CHN18CS069 sgpa: 8.28
+
+ sgpa: 0.00
+
+CHN18CS070 sgpa: 8.61
+
+ sgpa: 0.00
+
+CHN18CS071 failed subjects : 3
+
+ sgpa: 0.00
+
+CHN18CS072 sgpa: 8.44
+
+ sgpa: 0.00
+
+CHN18CS073 sgpa: 8.83
+
+ sgpa: 0.00
+
+CHN18CS074 sgpa: 7.72
+
+ sgpa: 0.00
+
+CHN18CS075 sgpa: 8.06
+
+ sgpa: 0.00
+
+CHN18CS076 failed subjects : 1
+
+ sgpa: 0.00
+
+CHN18CS077 sgpa: 9.67
+
+ sgpa: 0.00
+
+CHN18CS078 sgpa: 8.50
+
+ sgpa: 0.00
+
+CHN18CS079 sgpa: 7.67
+
+ sgpa: 0.00
+
+CHN18CS080 sgpa: 9.44
+
+ sgpa: 0.00
+
+CHN18CS081 failed subjects : 1
+
+ sgpa: 0.00
+
+CHN18CS082 failed subjects : 1
+
+ sgpa: 0.00
+
+CHN18CS083 failed subjects : 1
+
+ sgpa: 0.00
+
+CHN18CS084 sgpa: 8.00
+
+ sgpa: 0.00
+
+CHN18CS085 failed subjects : 1
+
+ sgpa: 0.00
+
+CHN18CS086 failed subjects : 2
+
+ sgpa: 0.00
+
+CHN18CS087 sgpa: 9.83
+
+ sgpa: 0.00
+
+CHN18CS088 failed subjects : 2
+
+ sgpa: 0.00
+
+CHN18CS089 failed subjects : 2
+
+ sgpa: 0.00
+
+CHN18CS090 failed subjects : 5
+
+ sgpa: 0.00
+
+CHN18CS091 sgpa: 9.22
+
+ sgpa: 0.00
+
+CHN18CS092 sgpa: 9.33
+
+ sgpa: 0.00
+
+CHN18CS093 sgpa: 9.44
+
+ sgpa: 0.00
+
+CHN18CS094 sgpa: 8.00
+
+ sgpa: 0.00
+
+CHN18CS095 sgpa: 9.44
+
+ sgpa: 0.00
+
+CHN18CS096 sgpa: 8.11
+
+ sgpa: 0.00
+
+CHN18CS097 failed subjects : 2
+
+ sgpa: 0.00
+
+CHN18CS098 failed subjects : 3
+
+ sgpa: 0.00
+
+CHN18CS099 sgpa: 9.67
+
+ sgpa: 0.00
+
+CHN18CS100 failed subjects : 1
+
+ sgpa: 0.00
+
+CHN18CS101 failed subjects : 1
+
+ sgpa: 0.00
+
+CHN18CS102 sgpa: 9.11
+
+ sgpa: 0.00
+
+CHN18CS103 sgpa: 9.00
+
+ sgpa: 0.00
+
+CHN18CS104 sgpa: 8.83
+
+ sgpa: 0.00
+
+CHN18CS105 sgpa: 8.33
+
+ sgpa: 0.00
+
+CHN18CS106 failed subjects : 2
+
+ sgpa: 0.00
+
+CHN18CS107 sgpa: 8.22
+
+ sgpa: 0.00
+
+CHN18CS108 sgpa: 7.56
+
+ sgpa: 0.00
+
+CHN18CS109 sgpa: 7.33
+
+ sgpa: 0.00
+
+CHN18CS110 failed subjects : 3
+
+ sgpa: 0.00
+
+CHN18CS111 sgpa: 8.56
+
+ sgpa: 0.00
+
+CHN18CS112 sgpa: 8.33
+
+ sgpa: 0.00
+
+CHN18CS113 sgpa: 7.89
+
+ sgpa: 0.00
+
+CHN18CS114 failed subjects : 3
+
+ sgpa: 0.00
+
+CHN18CS115 failed subjects : 1
+
+ sgpa: 0.00
+
+CHN18CS116 sgpa: 8.56
+
+ sgpa: 0.00
+
+CHN18CS117 failed subjects : 3
+
+ sgpa: 0.00
+
+CHN18CS118 failed subjects : 2
+
+ sgpa: 0.00
+
+CHN18CS119 failed subjects : 6
+
+ sgpa: 0.00
+
+CHN18CS120 failed subjects : 2
+
+ sgpa: 0.00
+
+CHN18CS121 sgpa: 7.78
+
+ sgpa: 0.00
+
+CHN18CS122 sgpa: 9.00
+
+ sgpa: 0.00
+
+CHN18CS123 failed subjects : 3
+

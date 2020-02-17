@@ -1,0 +1,4 @@
+Script started on Monday 17 February 2020 11:48:19 AM IST
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/1702/s2s4c1@lab2-Veriton-Series:~/ceccs18c30/1702/s2$ bash script1.shscript work.txtbash script1.shscript work.txtls[Kcd ceccs18c30/1702/s1[Kceccs18c30/1702/s1ls[Kscript work.txtbash script1.sh[Kbash script1.sh[1P.sh2.sh
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/1702/s2s4c1@lab2-Veriton-Series:~/ceccs18c30/1702/s2$ exit
+Script done on Monday 17 February 2020 11:48:37 AM IST
