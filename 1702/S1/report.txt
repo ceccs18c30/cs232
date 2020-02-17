@@ -1,0 +1,72 @@
+CEC CS 18 C30 17-02-2020
+JIBIN JOSEPH
+
+--------------------------------
+#1: SCRIPTING TASK (t2)
+---------------------------------
+
+Command/Shell script/Program name
+---------------------------------
+INPUT 
+
+	* pdftotext -layout S1.pdf S1.txt 
+	* grep --no-group-separator -A3 "CHN18CS" S1.txt > S1_cs.txt
+	* tr  '\n' ' ' < S1_cs.txt > result1.txt
+	* sed 's/CHN/\n\nCHN/g' result1.txt > results.txt
+	* sed -i 's/(O)/ 10/g' result.txt
+	* awk  '{  
+	         print $1,$3,$5,$7,$9,$11,$13,$15,$17,$19
+                }' result.txt > temp.txt 
+	* awk '{
+	sum = 0
+	flag = 0
+	fails = 0
+	for(var =2; var<=NF; var++)
+	{	
+		if($var == 0) 
+		{
+			flag = 1
+			fails = fails + 1
+		}
+		sum += $var
+	}
+	sgpa = sum/9
+	if (flag == 0) {	
+	 	printf("%s sgpa: %0.2f\n\n",$1,sgpa)
+	}
+	if (flag == 1) {
+		printf("%s failed subjects : %d\n\n",$1,fails)
+	}
+}' temp.txt > sgpa.txt
+
+
+
+
+
+
+
+
+-------------------------------------------------------------
+
+OUTPUT
+
+
+
+
+
+
+----------------------------------------------------------------------------------
+OUTPUT
+
+	* converts pdf file to text
+	* grep command selects three lines with no separators
+	* tr replaces new line with space
+	* sed command gives a new line before the CHN format
+	* sed -i command replaces O with 10
+	* This awk command selects the selected fields only
+	* This awk function computes the sgpa grade in first semester
+
+
+------------------------------------------------------------------------------------
+
+

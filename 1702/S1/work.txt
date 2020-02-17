@@ -1,0 +1,4 @@
+Script started on Monday 17 February 2020 12:08:59 PM IST
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/1702/s1s4c1@lab2-Veriton-Series:~/ceccs18c30/1702/s1$ exitscript work.txtbash script2.shls[Kbash script2.sh[1P.sh1.sh
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/1702/s1s4c1@lab2-Veriton-Series:~/ceccs18c30/1702/s1$ exiot[1Pt
+Script done on Monday 17 February 2020 12:09:10 PM IST
