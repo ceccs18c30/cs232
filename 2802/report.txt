@@ -1,0 +1,16 @@
+CEC CS C30 28/02/2020
+JIBIN JOSEPH
+
+-------------------------------
+Input 
+
+	*sftp cs18c30@192.168.0.30
+	*put index.html
+
+--------------------------------------------
+Output
+
+	*connects to the server
+	*uploads the webpage
+
+--------------------------------------------------

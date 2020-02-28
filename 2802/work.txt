@@ -1,0 +1,15 @@
+Script started on Friday 28 February 2020 11:46:56 AM IST
+]]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/2802s4c1@lab2-Veriton-Series:~/ceccs18c30/2802$ ]script work.txtcd ceccs18c30/28022020/0022020/exit[Kifconfig -asftp cs18c30@192.168.0.30cd s2[Ksftp cs18c30@192.168.0.30
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs18c30@192.168.0.30's password: 
+Connected to 192.168.0.30.
+sftp> put index[K.[Kx.html
+Uploading index.html to /home/cs18c30/index.html
+index.html                                      0%    0     0.0KB/s   --:-- ETAindex.html                                    100% 3788     3.7KB/s   00:00    
+sftp> exit
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c30/2802s4c1@lab2-Veriton-Series:~/ceccs18c30/2802$ r[Kexit
+Script done on Friday 28 February 2020 11:47:30 AM IST
