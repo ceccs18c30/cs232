@@ -1,1 +1,17 @@
+CEC CS 18 C30  04-04-2020
+JIBIN JOSEPH
 
+-------------------------------------------------------------------------------
+#1: Virtualisation Environment (13)
+-----------------------------------------------------------------------------
+	
+	* Installation of virtualbox
+
+	* Downloaded the iso file of ubuntu 18.04 LTS
+
+	* Installed the ubuntu 18.04 LTS in virtualbox
+
+	* Work in done in ubuntu 18.04 LTS
+
+
+---------------------------------------------------------------------------
