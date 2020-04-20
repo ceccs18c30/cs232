@@ -1,0 +1,134 @@
+
+CEC CS 18 C30	  20/04/2020
+JIBIN JOSEPH
+
+---------------------------------------------------
+#1 TASK-8.2(PERL)
+
+---------------------------------------------------
+Command/Shell script/Program name
+
+#!/usr/bin/perl/
+
+print"Hello,I am Jibin Joseph\n";
+
+# /usr/bin/perl ia a perl interpreter binary.To change the  mode of script and execution priviledge,we use the below code
+
+# chmod 0755 prgm.pl;
+
+# ./prgm.pl;
+
+print"Hello,I am Jibin Joseph\n";
+
+print'Hello,I am Jibin Joseph\n';
+
+print"\UWelcome to my world\n";
+
+$name = "Michael";
+
+$age = 20;
+
+print"Name = $name\n";
+
+print"Age = $age\n";
+
+@names = ("Saurav","Kevin","Arun");
+
+@ages = (20,28,14);
+
+print"names[0] = $names[0]\n";
+
+print"ages[0] = $ages[0]\n";
+
+print"names[2] = $names[2]\n";
+
+print"ages[2] = $ages[2]\n";
+
+print"\n";
+
+%info = ('Keshav'=>20,'Shankar'=>28,'Akhil'=>32);
+
+print"\$info{'Keshav'} = $info{'Keshav'}\n";
+
+print"\$info{'Akhil'} = $info{'Akhil'}\n";
+
+%info = ('Keshav'=>20,'Shankar'=>28,'Akhil'=>32);
+
+@data = @info{Keshav,Shankar};
+
+print"@data\n";
+
+my @names = ('Ali','Ganesh','Devan','Jacob');
+
+my @ages = (65,72,23,28);
+
+for($i = 0;$i<4;$i=$i+1)
+{   print"$names[$i] \n";
+    if($ages[$i]>60)
+    {print"$names[$i] is a senior citizen \n";
+        
+    }
+
+
+------------------------------------------------------------------------
+Input: (If relevant)
+--------------------
+
+
+------------------------------------------------------------------------
+Output
+------
+
+Hello,I am Jibin Joseph.
+
+Hello,I am Jibin Joseph
+
+Hello,I am Jibin Joseph\n
+
+WELCOME TO MY WORLD
+
+Name = Michael
+
+Age = 20
+
+names[0] = Saurav
+
+ages[0] = 20
+
+names[2] = Arun
+
+ages[2] = 14
+
+$info{'Keshav'} = 20
+
+$info{'Akhil'} = 32
+
+20 28
+
+Ali 
+
+Ali is a senior citizen 
+
+Ganesh 
+
+Ganesh is a senior citizen 
+
+Devan 
+
+Devan is not a senior citizen
+
+Jacob 
+
+Jacob is not a senior citizen
+
+------------------------------------------------------------------
+Remarks if any:
+
+
+
+
+
+
+-------------------------------------------------------------------
+
+-------------------------------------------------------------------
