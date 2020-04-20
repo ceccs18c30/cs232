@@ -1,0 +1,31 @@
+Script started on 2020-04-20 07:24:52+0530
+]0;jibin@jibin-VirtualBox: ~/foss/1303[01;32mjibin@jibin-VirtualBox[00m:[01;34m~/foss/1303[00m$ ./prgm.pl
+Hello,I am Jibin Joseph.
+Hello,I am Jibin Joseph
+Hello,I am Jibin Joseph\n
+WELCOME TO MY WORLD
+Name = Michael
+Age = 20
+
+names[0] = Saurav
+ages[0] = 20
+names[2] = Arun
+ages[2] = 14
+
+$info{'Keshav'} = 20
+$info{'Akhil'} = 32
+
+20 28
+
+Ali 
+Ali is a senior citizen 
+Ganesh 
+Ganesh is a senior citizen 
+Devan 
+Devan is not a senior citizen
+Jacob 
+Jacob is not a senior citizen
+]0;jibin@jibin-VirtualBox: ~/foss/1303[01;32mjibin@jibin-VirtualBox[00m:[01;34m~/foss/1303[00m$ exir[Kt
+exit
+
+Script done on 2020-04-20 07:25:10+0530
