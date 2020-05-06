@@ -1,5 +1,5 @@
 
-clear;
+system("clear");
 print"MENU DRIVEN CALCULATOR\n";
 print"Enter the first number:";
 $a=<>;
