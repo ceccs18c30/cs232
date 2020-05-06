@@ -1,0 +1,28 @@
+CEC CS 18 C30
+JIBIN JOSEPH
+
+--------------------------------------------------------------------------
+
+#1: Making a shell script to implement menu driven calculator
+
+-------------------------------------------------------------------------
+
+Command/Shell script/Program name
+
+shell-script : cal.pl
+
+--------------------------------------------------------------------------
+
+Input:
+
+Two integers are given as input by the user
+
+---------------------------------------------------------------------------
+
+Output:
+
+The output is obtained by the choice of the user.
+It can be the sum,difference,product,quotient and modulus.
+
+
+------------------------------------------------------------------------
