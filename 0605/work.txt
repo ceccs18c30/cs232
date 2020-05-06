@@ -1,0 +1,42 @@
+Script started on 2020-05-06 05:29:30+0530
+]0;jibin@jibin-VirtualBox: ~/foss/0405[01;32mjibin@jibin-VirtualBox[00m:[01;34m~/foss/0405[00m$ exitperl work.pl[1P.pl[1P.pl[1P.pl[1P.plc.pla.pll.pl
+given is experimental at cal.pl line 17.
+when is experimental at cal.pl line 18.
+when is experimental at cal.pl line 21.
+when is experimental at cal.pl line 24.
+when is experimental at cal.pl line 27.
+when is experimental at cal.pl line 30.
+MENU DRIVEN CALCULATOR
+Enter the first number:2
+Enter the second number:3
+1.Addition
+2.Subtration
+3.Multiplication
+4.Division
+5.Modulus
+Enter your choice:1
+Sum = 5
+To continue press 0 / To quit press 1 
+ Enter your option : 0
+1.Addition
+2.Subtration
+3.Multiplication
+4.Division
+5.Modulus
+Enter your choice:3
+Product = 6
+To continue press 0 / To quit press 1 
+ Enter your option : 0
+1.Addition
+2.Subtration
+3.Multiplication
+4.Division
+5.Modulus
+Enter your choice:4
+Quotient = 0.666666666666667
+To continue press 0 / To quit press 1 
+ Enter your option : 1
+]0;jibin@jibin-VirtualBox: ~/foss/0405[01;32mjibin@jibin-VirtualBox[00m:[01;34m~/foss/0405[00m$ exit
+exit
+
+Script done on 2020-05-06 05:30:38+0530
